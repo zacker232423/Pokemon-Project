@@ -1,37 +1,12 @@
-# Foobar
+# Pokemon Project
 
-Foobar is a Python library for dealing with word pluralization.
+i wrote this program to visualze data from all of the pokemon generations 
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Requirements To Run! 
+python 3.10+ is needed to run the program 
+to begin with you have to install pandas, matplotlib, numpy, seaborn, and squarify to install them you use the commands below in the python terminal 
+pip install pandas  
+pip install matplotlib.pyplot 
+pip install numpy 
+pip install seaborn 
+pip install squarify
