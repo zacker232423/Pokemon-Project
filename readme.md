@@ -4,12 +4,16 @@ This program is used to visualize data from all of the Pokemon generations to be
 
 ## Requirements To Run! 
 python 3.10+ is needed to run the program. 
-To begin, you have to install pandas, matplotlib, numpy, seaborn, and squarify to install them, use the commands below in the python terminal 
+
+To begin, you have to install pandas, matplotlib, numpy, seaborn, and squarify to install them, use the commands below in the python terminal
+
+'''python   
 pip install pandas  
 pip install matplotlib.pyplot 
 pip install numpy 
 pip install seaborn 
 pip install squarify
+'''
 
 ### Features of the product include:
 Feature 1: Read in the data from a local CSV file
